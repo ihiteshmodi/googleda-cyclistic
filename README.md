@@ -29,8 +29,8 @@ Part of the Google data analytics professional certification capstone project.
 
 
 
-## Conclusions from the presentation
+## Summary of conclusions arrived at from the presentation
 1) Hypothesis was dropped due to less availablity of data
-   -> We did not have data regarding revenues, profits, bike idle (opportunity cost), mentainance cost of bikes etc etc due to which we were not abel to ascertain the profits           generated from each category of the riders
+   -> We did not have data regarding revenues, profits, bike idle (opportunity cost), maintenance cost of bikes etc etc due to which we were not abel to ascertain the profits           generated from each category of the riders
 2) We did find some behaviousal differences between the different category of customers
 3) Those behaviour differenced would have worked great if we were working on an advertising / marketing campaing however, they fail to help us build a strategy on "How to convert casual riders to paid members"
