@@ -5,14 +5,18 @@ Part of the Google data analytics professional certification capstone project.
 1) I am a junior data analyst in the marketing analyst team at Cyclistic, a bike-share company in Chicago.
 2) Hypothesis = company’s future success depends on maximizing the number of annual memberships as annual members are more profitable than casual riders
 
+
 ## -> Additional points that we should know
 1) 30% of the users use bikes to commute to work everyday rest use for leisure.
 2) We have only 2 types of customer = Members, Casual riders.
+
+
 
 # Questions to answer through this analysis
 ## 1) Is the hypothesis (Registered members are more profitable than casual bikers) Valid?
 ## 2) What are the behavioural differences between Members and casual bikers?
 ## 3) Formulate a strategy for converting casual members to paid membership types.
+
 
 
 # Appendix
@@ -22,6 +26,8 @@ Part of the Google data analytics professional certification capstone project.
 4) Data visualized Using tableau (workbook link - [Tableau Public worksheet link](https://public.tableau.com/app/profile/hitesh.modi/viz/Cyclistbikeshare/TotalridelengthByDays)
   -> Note - All the slides marked with X were dropped as they did not help answering the original question (Strategy to convery casual riders to paid members)
 5) Presentation made for Stakeholders - [Google slide link](https://docs.google.com/presentation/d/17K5YBRZl-SHqHk5CPAyMjnZv6rBayC_2p7EA5ytEvXg/edit?usp=sharing)
+
+
 
 ## Conclusions from the presentation
 1) Hypothesis was dropped due to less availablity of data
